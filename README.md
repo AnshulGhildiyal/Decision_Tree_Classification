@@ -37,8 +37,11 @@ pip install pandas scikit-learn
 ## **Project Structure**
 
 📂 Decision-Tree-Classification-Project
+
 ├── PROGIDY_DS_03.ipynb    # Jupyter Notebook with code and analysis
+
 ├── PROGIDY_DS_03_Data.csv # Dataset file
+
 ├── README.md              # Project documentation
 
 
